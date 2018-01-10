@@ -1,0 +1,10 @@
+c:\users\ales\source\repos\ReverseLinked\ReverseLinked\bin\Debug\netcoreapp1.1\ReverseLinked.deps.json
+c:\users\ales\source\repos\ReverseLinked\ReverseLinked\bin\Debug\netcoreapp1.1\ReverseLinked.runtimeconfig.json
+c:\users\ales\source\repos\ReverseLinked\ReverseLinked\bin\Debug\netcoreapp1.1\ReverseLinked.runtimeconfig.dev.json
+c:\users\ales\source\repos\ReverseLinked\ReverseLinked\bin\Debug\netcoreapp1.1\ReverseLinked.dll
+c:\users\ales\source\repos\ReverseLinked\ReverseLinked\bin\Debug\netcoreapp1.1\ReverseLinked.pdb
+c:\users\ales\source\repos\ReverseLinked\ReverseLinked\obj\Debug\netcoreapp1.1\ReverseLinked.csprojResolveAssemblyReference.cache
+c:\users\ales\source\repos\ReverseLinked\ReverseLinked\obj\Debug\netcoreapp1.1\ReverseLinked.csproj.CoreCompileInputs.cache
+c:\users\ales\source\repos\ReverseLinked\ReverseLinked\obj\Debug\netcoreapp1.1\ReverseLinked.AssemblyInfo.cs
+c:\users\ales\source\repos\ReverseLinked\ReverseLinked\obj\Debug\netcoreapp1.1\ReverseLinked.dll
+c:\users\ales\source\repos\ReverseLinked\ReverseLinked\obj\Debug\netcoreapp1.1\ReverseLinked.pdb
